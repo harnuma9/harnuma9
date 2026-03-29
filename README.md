@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🌑 Aries Harbinger (@harnuma9)
 
-<!--
-**harnuma9/harnuma9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Author of [@stless/cif](https://www.npmjs.com/package/@stless/cif)** > *Architecting high-integrity identity and post-quantum cryptographic frameworks.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Secure Communications
+If you are reporting a vulnerability, please use these secure channels:
+
+*[PENDING...]*
+
+### 🚀 Current Work
+- 📦 **[@stless/cif](https://github.com/harnuma9/cripta-identity-framework)** - Deterministic identity framework (ML-KEM/ML-DSA).
+
+---
+*Verified Integrity: All core releases are signed via ML-DSA-87.*
