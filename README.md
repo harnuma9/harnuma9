@@ -30,7 +30,7 @@ For high-integrity collaboration or sensitive disclosures:
 
 | Channel | Address |
 | :--- | :--- |
-| **Email** | `ariesh@atomicmail.io` |
+| **Email** | **[ariesh@atomicmail.io](mailto:ariesh@atomicmail.io)** |
 | **Session** | `05262fbb01b0b79394d17766a563790b996029e3ffebebd2834fa05d846b166d20` |
 
 <br />
